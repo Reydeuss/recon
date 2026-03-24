@@ -60,7 +60,7 @@ Stream-based financial reconciliation engine.
 
 ## License
 
-This project is licensed under the **BSD 3-Clause License**. See `src/main/java/io/github/reydeuss/LICENSE.md` for the full license text.
+This project is licensed under the **BSD 3-Clause License**. See `LICENSE.md` for the full license text.
 
 ---
 
