@@ -1,6 +1,6 @@
 # Recon
 
-A high-performance, stream-based financial reconciliation engine designed with a "no-magic" philosophy. This utility reconciles accrual and cash ledgers with an **O(1)** memory footprint for the cash stream, ensuring scalability for massive datasets.
+A high-performance, stream-based financial reconciliation engine designed with a "no-magic" philosophy. This utility reconciles accrual and cash ledgers with an **O(n)** memory footprint for the cash stream, ensuring scalability for massive datasets.
 
 ## Features
 
