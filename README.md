@@ -16,7 +16,7 @@ The project follows a clean boundary between domain logic and infrastructure:
 * `engine`: Core reconciliation logic.
 * `check`: Modular workers for specific validation rules.
 * `store`: Infrastructure layer for data loading (`load`) and persistence (`persist`).
-* `model`: Pure data carriers (Java Records and Abstracts).
+* `model`: Pure data carriers, models a ledger entry.
 * `result`: Domain-specific outcomes and status types.
 
 ## Prerequisites
