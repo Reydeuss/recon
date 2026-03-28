@@ -15,6 +15,7 @@ required = true
 [[fields]]
 name = "amount"
 type = "number"
+format = "decimal"
 required = true
 
 [[fields]]
